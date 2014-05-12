@@ -6,7 +6,6 @@ mod 'puppetlabs/ruby'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/mysql'
 mod 'puppetlabs/mongodb'
-mod 'puppetlabs/nodejs'
 
 mod 'willdurand/nodejs', '1.6.0'
 mod 'elasticsearch/elasticsearch'
